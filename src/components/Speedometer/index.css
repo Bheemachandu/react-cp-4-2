@@ -1,0 +1,30 @@
+.container {
+  background-color: #07080c;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  color: #ffffff;
+}
+
+.buttonContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.button1 {
+  color: #ffffff;
+  background-color: #0b69ff;
+  border-radius: 3px;
+  border-width: 0px;
+}
+
+.button2 {
+  color: #ffffff;
+  background-color: transparent;
+  border-radius: 3px;
+  border-width: 2px;
+  border-color: #ffffff;
+}
